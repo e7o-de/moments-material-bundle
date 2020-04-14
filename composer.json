@@ -1,0 +1,15 @@
+{
+    "name": "e7o/moments-material-bundle",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sven Herzky",
+            "email": "sven@e7o.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "e7o\\Moments\\Bundles\\MaterialBundle\\": "src/e7o/Moments/Bundles/MaterialBundle"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+	"scripts": [],
+	"assets": [
+		{
+			"from": "assets",
+			"to": "material-bundle"
+		}
+	],
+	"include-scripts": [],
+	"include-styles": [
+		"material-bundle/material.css"
+	],
+	"routes": [],
+	"services": {}
+}
